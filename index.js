@@ -8,3 +8,4 @@ console.log('finished');
 //>>>>>>> master
 console.log('Julius-Branch Pull Request -> čia guli patobulinimo kodas');
 console.log('version 0.1.1 Alpha.');
+console.log('Julius branch edit');
